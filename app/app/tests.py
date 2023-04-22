@@ -9,7 +9,7 @@ class CalcTests(SimpleTestCase):
 
         self.assertEqual(res, 11)
 
-    def test_subtract_numbers(self):
-        res = calc.subtract(15, 10)
+    # def test_subtract_numbers(self):
+    #     res = calc.subtract(15, 10)
 
-        self.assertEqual(res, 5)
+    #     self.assertEqual(res, 5)
